@@ -1,0 +1,9 @@
+AvaliadorIA
+AvaliadorPlanilha
+ast
+os
+pandas
+re
+requests
+sys
+time
