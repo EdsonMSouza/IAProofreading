@@ -5,7 +5,7 @@ from core import AvaliadorPlanilha
 def main():
     # Verifica se o arquivo de entrada foi passado como argumento
     if len(sys.argv) < 2:
-        print("Uso: python avaliar.py data\<respostas_simuladas.xlsx>")
+        print("Uso: python avaliar.py data/<respostas_simuladas.xlsx>")
         sys.exit(1)
 
     # Arquivo de entrada passado como argumento na linha de comando
